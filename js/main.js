@@ -41,4 +41,19 @@ topLink.addEventListener("click", function() {
   addTopsTwo.innerHTML += '<button class="button">Add To Cart</button>';
 });
 
+outerwearLink.addEventListener("click", function() {
+  addOuterwearOne.innerHTML += '<img class="image-sizing"src="../assets/chic.jpeg" alt="Jacket with gold buttons">';
+  addOuterwearOne.innerHTML += '<button class="button">Add To Cart</button>';
+  addOuterwearOne.innerHTML += '<img class="image-sizing"src="../assets/patagonia.jpg" alt="Wilderness wear">';
+  addOuterwearOne.innerHTML += '<button class="button">Add To Cart</button>';
+  addOuterwearOne.innerHTML += '<img class="image-sizing"src="../assets/leatherjacket.jpeg" alt="Chic floral dress.">';
+  addOuterwearOne.innerHTML += '<button class="button">Add To Cart</button>';
+  addOuterwearTwo.innerHTML += '<img class="image-sizing"src="../assets/fur.jpg" alt="Prom dress">';
+  addOuterwearTwo.innerHTML += '<button class="button">Add To Cart</button>';
+  addOuterwearTwo.innerHTML += '<img class="image-sizing"src="../assets/velvet.jpg" alt="Velvet Jackets">';
+  addOuterwearTwo.innerHTML += '<button class="button">Add To Cart</button>';
+  addOuterwearTwo.innerHTML += '<img class="image-sizing"src="../assets/burberry.jpeg" alt="Burberry jacket">';
+  addOuterwearTwo.innerHTML += '<button class="button">Add To Cart</button>';
+})
+
 
