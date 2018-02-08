@@ -17,18 +17,18 @@ var addOuterwearTwo = document.getElementById('six');
 
 
 // Array referring to dresses
-dressColumnOne = ['<img class="image-sizing"src="../assets/bluecocktail.jpg" alt="Black dress with contrasting trimmings">', '<img class="image-sizing"src="../assets/blueprom.jpg" alt="White colored prom dress with blue lace bodice.">', '<img class="image-sizing"src="../assets/floraldress.jpg" alt="Chic floral dress.">'];
-dressColumnTwo = ['<img class="image-sizing"src="../assets/promdress.jpg" alt="Prom dress">', '<img class="image-sizing"src="../assets/shiftdress.jpg" alt="Black shift dress">','<img class="image-sizing"src="../assets/denimdress.jpg" alt="Yellow dress">'];
+dressColumnOne = ['<img class="image-sizing"src="assets/bluecocktail.jpg" alt="Black dress with contrasting trimmings">', '<img class="image-sizing"src="assets/blueprom.jpg" alt="White colored prom dress with blue lace bodice.">', '<img class="image-sizing"src="assets/floraldress.jpg" alt="Chic floral dress.">'];
+dressColumnTwo = ['<img class="image-sizing"src="assets/promdress.jpg" alt="Prom dress">', '<img class="image-sizing"src="assets/shiftdress.jpg" alt="Black shift dress">','<img class="image-sizing"src="assets/denimdress.jpg" alt="Yellow dress">'];
 
 
 // Array referring to tops
-topsColumnOne = ['<img class="image-sizing"src="../assets/pearls.jpg" alt="Blue top with pearls.">', '<img class="image-sizing"src="../assets/blackcroptop.jpg" alt="Black crop top.">','<img class="image-sizing"src="../assets/CamisaChiffon.jpg" alt="Chiffon top.">'];
-topsColumnTwo = ['<img class="image-sizing"src="../assets/blousesv-neck.jpg" alt="V-neck blouse">','<img class="image-sizing"src="../assets/peachblouse.jpg" alt="Peach blouse.">','<img class="image-sizing"src="../assets/limegreentop.jpg" alt="Lime green top.">'];
+topsColumnOne = ['<img class="image-sizing"src="assets/pearls.jpg" alt="Blue top with pearls.">', '<img class="image-sizing"src="assets/blackcroptop.jpg" alt="Black crop top.">','<img class="image-sizing"src="assets/CamisaChiffon.jpg" alt="Chiffon top.">'];
+topsColumnTwo = ['<img class="image-sizing"src="assets/blousesv-neck.jpg" alt="V-neck blouse">','<img class="image-sizing"src="assets/peachblouse.jpg" alt="Peach blouse.">','<img class="image-sizing"src="assets/limegreentop.jpg" alt="Lime green top.">'];
 
 
 // Array referring to outerwear
-outerwearColumnOne = ['<img class="image-sizing"src="../assets/chic.jpeg" alt="Jacket with gold buttons">', '<img class="image-sizing"src="../assets/patagonia.jpg" alt="Wilderness wear">', '<img class="image-sizing"src="../assets/leatherjacket.jpeg" alt="Chic floral dress.">'];
-outerwearColumnTwo = ['<img class="image-sizing"src="../assets/fur.jpg" alt="Prom dress">', '<img class="image-sizing"src="../assets/velvet.jpg" alt="Velvet Jackets">', '<img class="image-sizing"src="../assets/burberry.jpeg" alt="Burberry jacket">'];
+outerwearColumnOne = ['<img class="image-sizing"src="assets/chic.jpeg" alt="Jacket with gold buttons">', '<img class="image-sizing"src="assets/patagonia.jpg" alt="Wilderness wear">', '<img class="image-sizing"src="assets/leatherjacket.jpeg" alt="Chic floral dress.">'];
+outerwearColumnTwo = ['<img class="image-sizing"src="assets/fur.jpg" alt="Prom dress">', '<img class="image-sizing"src="assets/velvet.jpg" alt="Velvet Jackets">', '<img class="image-sizing"src="assets/burberry.jpeg" alt="Burberry jacket">'];
 
 
 // Add dresses dynamically to html
